@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">chu-eBus</string>
+    <string name="title_route_detail">Route Detail</string>
+    <string name="next_trip">下一班車為: </string>
+    <string name="next_trip_time">%d: </string>
+    <string name="go_to">去程</string>
+    <string name="back_to">回程</string>
+
+</resources>
